@@ -36,5 +36,5 @@
 
 ## ☑️ I don't use github as gitlab is better...
 
-![Gitlab](https://github.com/cedricmillet/cedricmillet/blob/main/gitlab.PNG?raw=true)]
+![Gitlab](https://github.com/cedricmillet/cedricmillet/blob/main/merge.png?raw=true)]
 
