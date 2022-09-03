@@ -3,6 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&color=0a66c2)](https://www.linkedin.com/in/cédricmillet)
 
 
+
+![Linkedin](https://k2d-artwork.s3-us-west-1.amazonaws.com/10470929.jpg)
+
+
 <!--
 **cedricmillet/cedricmillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
