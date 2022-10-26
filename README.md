@@ -36,5 +36,5 @@
 
 ## I don't use :octocat: Github, I prefer 🦊 Gitlab
 
-![Gitlab](https://github.com/cedricmillet/cedricmillet/blob/main/gitlab.PNG?raw=true)]
+![Gitlab](https://github.com/cedricmillet/cedricmillet/blob/main/gitlab.PNG?raw=true)
 
